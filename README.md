@@ -1,6 +1,6 @@
 <h1>Research-and-study-about-Malwarebytes</h1>
 
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<img src="https://content.invisioncic.com/Mmalware/monthly_2017_02/hero_logo.png.ce017c551dfbebe78e51737cc07d50a2.png">
 
 
 This is just the beginning of my cybersecurity career!
