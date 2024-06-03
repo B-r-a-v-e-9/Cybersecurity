@@ -13,6 +13,7 @@ This is just the beginning of my cybersecurity career!
 <h3>Signature-based scanning</h3>
 
 > As far as I know, **signature-based scanning** is a technique that uses known malicious code *snippets* or *hashes* of malware found on the Internet. Malwarebytes then compares those malicious codes with the source code of the suspected application.
+
 > I realize that the Signature-based scanning technique has a weakness! It is that when the suspected malicious source code does not match due to it not having been previously detected or known, it becomes a serious issue.
 >> To address the above issue, they have applied another technique, which is Heuristic Analysis.
 <h3>Heuristic Analysis</h3>
