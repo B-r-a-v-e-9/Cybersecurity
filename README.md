@@ -6,8 +6,10 @@ This is just the beginning of my cybersecurity career!
 
 <h3>Signature-based scanning</h3>
 
-
-
 <h3>Heuristic Analysis</h3>
+
+<h3>Behavior Monitoring</h3>
+
+<h3>Web Protection</h3>
 
  
