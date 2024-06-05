@@ -21,10 +21,10 @@ This is just the beginning of my cybersecurity career!
 > Heuristic Analytics is a method of detecting and preventing malware that Malwarebytes utilizes. Instead of relying on rigid definitions of viruses or malware, Heuristic Analytics employs intelligent algorithms to identify suspicious behaviors and activities. This allows for the detection of new and previously undefined threats.
 
 > Here are the key drawbacks of heuristic analysis
->> Lower accuracy
->> Easily evaded
->> High resource requirements
->> Requires continuous updates
+>> Lower accuracy x
+>> Easily evaded x
+>> High resource requirements x
+>> Requires continuous updates x
 >> Difficult to explain
  
 <h3>Behavior Monitoring</h3>
