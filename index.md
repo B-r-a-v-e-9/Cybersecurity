@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang = "en">
- <head>
+ <header>
   <meta charset="UTF-8">
   <title>Cybersecurity adventure with Brave9!</title>
- </head>
+ </header>
 
 <body>
  <header>
