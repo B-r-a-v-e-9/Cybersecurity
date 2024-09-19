@@ -2,7 +2,7 @@
 <html lang = "en">
  <head>
   <meta charset="UTF-8">
-  <title> Cybersecurity adventure with Brave9! </title>
+  <title>Cybersecurity adventure with Brave9!</title>
  </head>
 
 <body>
