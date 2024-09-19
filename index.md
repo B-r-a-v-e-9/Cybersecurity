@@ -3,7 +3,6 @@
  <head>
   <title> Cybersecurity adventure with Brave9! </title>
  </head>
-</html>
 
 <body>
  <header>
@@ -11,3 +10,4 @@
   <h1> What is Cybersecurity ? <h1>
  </header>
 </body>
+</html>
